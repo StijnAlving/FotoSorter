@@ -1,0 +1,7 @@
+PySide6
+Pillow
+pillow-heif
+numpy
+opencv-python-headless
+imagehash
+reverse_geocoder

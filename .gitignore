@@ -1,0 +1,13 @@
+# Developer-only notes, not meant for the repo
+DEV_README.txt
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Personal data - never commit real photos or app state
+RAW/
+DATA/
+fotosorter.db
+config/
